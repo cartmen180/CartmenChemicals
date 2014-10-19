@@ -1,0 +1,10 @@
+{
+  "name": "CartmenChemicals",
+  "version": "1.0.0",
+  "title": "Cartmen's Chemicals Mod",
+  "author": "Cartmen180",
+  "contact": "cartmen180@gmail.com",
+  "homepage": "",
+  "description": "Adds a set of chemicals to the game.",
+  "dependencies": ["base >= 0.10.0","CartmenNaturalGas >= 1.1.1"]
+}
