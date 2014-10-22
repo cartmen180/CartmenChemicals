@@ -74,4 +74,14 @@ data:extend({
 	subgroup = "cartmen-basic-chemicals",
 	order = "e1",
   },
+  
+  { type = "recipe", name = "carbon-monoxide",
+    icon = "__CartmenChemicals__/graphics/icons/fluid/carbon-monoxide.png",
+	category = "chemistry",
+	enabled = false,
+	ingredients = {},
+	results = {{type="fluid",name="carbon-monoxide",amount=1}},
+	subgroup = "cartmen-basic-chemicals",
+	order = "e3",
+  },
 })

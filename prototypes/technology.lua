@@ -6,7 +6,8 @@ data:extend({
 	{
 	  {type="unlock-recipe",recipe="salt-electrolysis"},
 	  {type="unlock-recipe",recipe="hydrogen-chloride"},
-	  {type="unlock-recipe",recipe="hydrochloric-acid"}
+	  {type="unlock-recipe",recipe="hydrochloric-acid"},
+	  {type="unlock-recipe",recipe="carbon-monoxide"}
 	},
 	unit =
 	{
